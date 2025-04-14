@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis-
+# Hotel-Booking-Analysis
 
 ## Overview
 This data analysis project investigates hotel booking patterns using the **Hotel Booking Demand Dataset**. It focuses on identifying trends in bookings by country, determining the best time to book a hotel, and finding the optimal length of stay for favorable rates. The dataset was loaded from `hotel_bookings.csv` using Pandas and analyzed through visualizations and statistical summaries.
